@@ -18,9 +18,11 @@ We assessed the normality of the distribution of these features using the Shapir
 
 We used two machine learning models, logistic regression and random forests, to rank the descriptors in terms of their predictive power for semantic labels. This approach allowed us to identify linear and non-linear relationships between the descriptors and the labels, providing insights into the most important features.
 
+### Note:
 For more information about our work, please refer to the following paper:
 
-BiSAID: Bipolar Semantic Adjectives Icons and Earcons Dataset
+**BiSAID: Bipolar Semantic Adjectives Icons and Earcons Dataset**
+
 
 
 
